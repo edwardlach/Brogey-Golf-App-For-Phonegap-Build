@@ -1,0 +1,186 @@
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined index: hole_id in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:15 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:15 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:20 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined index: hole_id in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:20 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:20 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:20 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:20 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:20 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined index: hole_id in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:32 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 17:15:32 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 21:11:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined index: hole_id in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 21:11:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 21:11:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 21:11:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 21:11:18 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 21:11:18 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined index: hole in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:41:58 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:41:58 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:44:40 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:44:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:44:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:44:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:44:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:44:42 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:44:42 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:44:43 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:44:43 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:03 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:45:03 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:45:10 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:45:10 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 51
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:49:23 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:49:23 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:52:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:52:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:52:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:52:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:52:50 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:52:50 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:52:51 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:52:51 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:53:43 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:53:43 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:54:23 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:54:23 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 5
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined index: hole in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 6
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined index: par in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 7
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined index: score in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 8
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: link in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined index: hole_handicap in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_real_escape_string() expects parameter 1 to be mysqli, null given in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 9
+[08-Dec-2014 22:57:28 America/New_York] PHP Notice:  Undefined variable: scorecard_update_query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
+[08-Dec-2014 22:57:28 America/New_York] PHP Warning:  mysqli_query(): Empty query in /home4/brogeygo/public_html/Brogey-Golf-App/lib/edit_scorecard.php on line 50
