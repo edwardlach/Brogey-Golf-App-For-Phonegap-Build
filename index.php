@@ -68,7 +68,7 @@ EOHTML;
 		
 		$play_more_rounds_message = <<<EOHTML
 			
-			<div class="info_message">Sup Brogey, it appears you$apos;ve only played $rounds_played rounds so far.  We highly suggest putting in at least 5 scores before you start league play in order to establish an accurate handicap.</div>
+			<div class="info_message">Sup Brogey, it appears you&apos;ve only played $rounds_played rounds so far.  We highly suggest putting in at least 5 scores before you start league play in order to establish an accurate handicap.</div>
 			
 EOHTML;
 		
