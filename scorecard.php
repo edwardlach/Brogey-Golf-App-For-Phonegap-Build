@@ -676,19 +676,55 @@ EOHTML;
 /* creates a link that sends a query string to kickoff the code to finalize the round via a query string */
 
 if( $holes_to_play <= $holes_played && $is_complete_row[0] == '0'){
-
-	$finalize_round_html = <<<EOHTML
 	
-		<a href="scorecard.php?finalize=1" data-role="button" id="finalize_round">Finalize Round</a>
+	$round_hole_handicaps_query = mysqli_query( $link, 
+		"SELECT hole_handicap FROM bg_app_holes "
+		."WHERE round_id = '$round_id' "
+	);
+	
+	
+	$round_hole_handicaps = array();
+	
+	
+	while( $round_hole_handicaps_row = mysqli_fetch_array( $round_hole_handicaps_query, MYSQLI_ASSOC ) ){
+		
+		array_push( $round_hole_handicaps, $round_hole_handicaps_row );
+	
+	}
+	
+	$array_to_check_for_dups = $round_hole_handicaps;
+	
+	$has_dups = check_array_for_dups($array_to_check_for_dups);
+	
+	if( $has_dups != 0 ){
+		
+		foreach( $has_dups as $dup ){
+		
+		
+		
+		$finalize_round_html .= <<<EOHTML
+			
+			<div class="error_message">Handicap $dup was used more than once.  Please give each hole a unique handicap before you finish this round.</div>
+			
+EOHTML;
+		}
+
+	}else{
+	
+		$finalize_round_html = <<<EOHTML
+		
+			<a href="scorecard.php?finalize=1" data-role="button" id="finalize_round">Finalize Round</a>
 
 EOHTML;
+	
+	}
 
 }
 
 
 /* Runs the round finaliztion function if correct query string received */
 if( $_GET['finalize'] ){
-
+	
 	finalize_round( $link, $round_id, $front_score, $back_score, $front_par, $back_par );
 	
 }
@@ -1573,12 +1609,7 @@ $(".scorecard_front_nine").on("change", ".hole_handicap", function(){
 	  },
 	  function(data,status){
 	  	
-	  	if( data == "" ){
-	  		location.reload();
-	  	}else{
-	  		$(".messages").html(data);
-	  		$(".messages").addClass('error_message');
-	  	}
+	  	location.reload();
 	  
 	  });
 
@@ -1635,12 +1666,7 @@ $(".scorecard_back_nine").on("change", ".hole_handicap", function(){
 	  },
 	  function(data,status){
 	  
-	  	if( data == "" ){
-	  		location.reload();
-	  	}else{
-	  		$(".messages").html(data);
-	  		$(".messages").addClass('error_message');
-	  	}
+	  	location.reload();
 	  
 	  });
 
@@ -1697,12 +1723,7 @@ $(".scorecard_front_nine_small_screen").on("change", ".hole_handicap", function(
 	  },
 	  function(data,status){
 	  
-	  	if( data == "" ){
-	  		location.reload();
-	  	}else{
-	  		$(".messages").html(data);
-	  		$(".messages").addClass('error_message');
-	  	}
+	  	location.reload();
 	  
 	  });
 
@@ -1759,12 +1780,7 @@ $(".scorecard_back_nine_small_screen").on("change", ".hole_handicap", function()
 	  },
 	  function(data,status){
 	  
-	  	if( data == "" ){
-	  		location.reload();
-	  	}else{
-	  		$(".messages").html(data);
-	  		$(".messages").addClass('error_message');
-	  	}
+	  	location.reload();
 	  
 	  });
 

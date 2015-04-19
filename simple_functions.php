@@ -65,6 +65,34 @@ function user_name($link){
 
 
 
+function check_array_for_dups($array_to_check_for_dups){
+
+	$length = count($array_to_check_for_dups);
+	$has_dup = 0;
+	
+	for( $i = 0; $i < $length; $i += 1 ){
+	
+		$item_1 = $array_to_check_for_dups[$i];
+		
+		for( $j = $i + 1; $j < $length; $j += 1 ){
+			
+			$item_2 = $array_to_check_for_dups[$j];
+			
+			if( $item_1 == $item_2 ){
+				
+				$has_dup = $item_1;
+				break 2;
+			
+			}
+		
+		}	
+	
+	}
+
+	return $has_dup;
+
+}
+
 
 
 

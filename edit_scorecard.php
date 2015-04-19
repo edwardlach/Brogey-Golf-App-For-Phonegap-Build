@@ -64,15 +64,14 @@ if( $par ){
 	
 		echo "Handicap ".$hole_handicap." was already used.";
 	
-	}else{
-	
-		$scorecard_update_query = "UPDATE `bg_app_holes` "
-					 ."SET `hole_handicap`='$hole_handicap' "
-					 ."WHERE `hole_id` = '$hole_id' AND `round_id` = '$round_id'";
-					 
-		$run_scorecard_update_query = mysqli_query( $link, $scorecard_update_query );			 
 	}
-
+	
+	$scorecard_update_query = "UPDATE `bg_app_holes` "
+				 ."SET `hole_handicap`='$hole_handicap' "
+				 ."WHERE `hole_id` = '$hole_id' AND `round_id` = '$round_id'";
+				 
+	$run_scorecard_update_query = mysqli_query( $link, $scorecard_update_query );			 
+	
 }
 
 
